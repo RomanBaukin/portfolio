@@ -399,6 +399,12 @@ body {
     flex-basis: 100%;
     margin-bottom: 30px;
   }
+  .project-image {
+    max-width: 250px;
+    max-height: 268px;
+    border-radius: 6px;
+    background-size: cover;
+  }
   .project-paragraph {
     font-size: 14px;
     line-height: 150%;
